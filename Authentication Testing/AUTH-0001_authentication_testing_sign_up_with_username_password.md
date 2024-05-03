@@ -8,12 +8,12 @@ Scenario 1
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |Enter Valid Username      | Verify that field is not empty and username is entered succesfully | 
+ |  2 |Enter Password      | Verify that that field is not empty and password is entered succesfully   | 
+ |  3 |Press Register      | Verify that register button is clicked and has succesfully registered   |  
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - User is registered  
+ - User is redirected to login screen  
+
