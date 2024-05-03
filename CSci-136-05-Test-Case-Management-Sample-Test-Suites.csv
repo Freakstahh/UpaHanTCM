@@ -1,0 +1,61 @@
+Test Cases,TEST CASE ID,Sample Summary
+User Testing,,
+Landlord Tenant Management Testing,,
+  Landlord Tenant Management Testing - Add Tenant,USER-0001,Verify that admin can add tenant to their boarding house saved and displayed successfully.
+  Landlord Tenant Management Testing - Edit Tenant,USER-0002,Verify that admin user can edit seleceted tenant information and status and is saved and displayed successfully.
+  Landlord Tenant Management Testing - Delete Tenant,USER-0003,Verify that admin user can remove seleceted tenant and is saved and displayed successfully.
+Notification Testing,,
+  Notification Testing - Payment Confirmation Status ,NOTIF-0001,Verify that payment status is viewed in the notification bar successfully.
+  Notification Testing - Upcoming Bills,NOTIF-0002,Verify that product is modified and displayed successfully.
+  Notification Testing - Overdue Bills,NOTIF-0003,Verify that product is deleted successfully.
+  Notification Testing - Multiple Overdue Bills,NOTIF-0004,Verify that product hide/show feature is working successfully.
+Efficient Order Processing Testing,,
+ Efficient Order Processing Testing - Payment,PAY-0001,Verify that payment made is succesful and displayed succesfully.
+UI Testing,,
+  User Interface Testing,,
+    Login testing,UI-0001,"Verify that icons, texts, and other elements are displayed properly."
+    Signup testing,UI-0002,"Verify that icons, texts, and other elements are displayed properly."
+    Dashboard / Payment Tracker testing,UI-0003,"Verify that icons, texts, and other elements are displayed properly."
+    Tenant Management testing,UI-0003,"Verify that icons, texts, and other elements are displayed properly."
+    Add Tenant Screen testing,UI-0004,"Verify that icons, texts, and other elements are displayed properly."
+    Payment Screen testing,UI-0005,"Verify that icons, texts, and other elements are displayed properly."
+    Calendar Screen testing,UI-0005,"Verify that icons, texts, and other elements are displayed properly."
+    Settings Screen testing,UI-0006,"Verify that icons, texts, and other elements are displayed properly."
+  DBCS Testing,,
+    User testing,UI-0007,Verify that DBCS inputs are saved and displayed properly.
+    Authentication testing,UI-0008,Verify that DBCS inputs are saved and displayed properly.
+    Settings testing,UI-0009,Verify that DBCS inputs are saved and displayed properly.
+  UI Messages,,
+    Helper texts,UI-0010,Verify that UI helper texts are displayed properly.
+    Notification Drawer,UI-0011,Verify that notifications are working successfully.
+    Snackbar,UI-0012,Verify that snackbars are working successfully.
+    Toast notifications,UI-0013,Verify that toast notifications are working successfully.
+    Error Messages,UI-0014,Verify that error messages are displayed successfully.
+    Offline Mode testing,UI-0015,Verify that error messages are displayed during offline mode.
+  Error Messages,,
+    Error Message - Connect to Internet,UI-0016,"Verify that ""connect to internet"" error message is displayed successfully."
+    Error Message - Failed Payment Attempt,UI-0017,"Verify that ""Failed Payment Attempt"" error message is displayed successfully."
+    Error Message - Invalid Payment Information,UI-0018,"Verify that ""Invalid Payment Information"" error message is displayed successfully."
+    Error Message - Insufficient Funds,UI-0019,"Verify that ""Insufficient Funds"" error message is displayed successfully."
+  Authentication Testing,,
+    Authentication testing - Sign Up with Username/Password,AUTH-0001,Verify user can sign up with username and password.
+    Authentication testing - Log in with Username/Password,AUTH-0002,Verify user can log in with username and password.
+    Authentication testing - Sign Up with Google,AUTH-0003,Verify user can sign up with GSI.
+    Authentication testing - Log in with Google,AUTH-0004,Verify user can log in with GSI.
+    Authentication testing - Verify Email,AUTH-0005,Verify user can verify account through email.
+    Authentication testing - Verify Number,AUTH-0006,Verify user can verify account through phone number.
+    Authentication testing - Change Email,AUTH-0007,Verify user can change email account.
+    Authentication testing - Forgot Password,AUTH-0008,Verify user can recover lost account.
+Connectivity Testing,,
+  Wireless Communication Testing,,
+    4G/LTE testing,CON-0002,Verify the app is working on 4G/LTE network.
+    5G testing,CON-0003,Verify the app is working on 5G network.
+  Ethernet testing,CON-0006,Verify the app is working using a wired setup.
+  Offline Mode testing,CON-0006,Verify the app is working in an offline mode setup.
+  Platform Compatibility,,
+    Android testing,CON-0010,Verify the app is working on Android devices.
+Performance Testing,,
+  Performance testing - POS Benchmark testing,PERF-0001,Verify that the app complies to the speed-test claims.
+  Performance testing - POS Maximum Items,PERF-0002,Verify that the app can transaction maximum items at checkouts.
+  Performance testing - POS 1000 checkouts,PERF-0003,Verify that the app can perform 1000 checkouts successively.
+  Performance testing - Maximum Users,PERF-0004,Verify that the app can add and view maximum users.
