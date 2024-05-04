@@ -16,4 +16,3 @@ Scenario 1
 
  - User is registered  
  - User is redirected to login screen  
-

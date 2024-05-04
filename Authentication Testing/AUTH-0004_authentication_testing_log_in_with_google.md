@@ -8,12 +8,9 @@ Scenario 1
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |Click on GSI button in login screen      | Verify that GSI button is clicked succesfully   | 
+ |  2 |Choose email to login with      | Verify that email is registered   | 
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - User is logged in using GSI and redirected to homescreen  

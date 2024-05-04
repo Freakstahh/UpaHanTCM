@@ -1,19 +1,16 @@
-## **CON-0010:** Android testing  
+## **CON-0001:** Android testing  
 
 > **Summary:** Verify the app is working on Android devices.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** Must use android devices  
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 | Use an android phone and launch the app     | Verify that app runs smoothly on android phone   | 
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - Application runs with android  
+  

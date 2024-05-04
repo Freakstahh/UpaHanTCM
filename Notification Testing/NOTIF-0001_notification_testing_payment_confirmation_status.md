@@ -2,18 +2,15 @@
 
 > **Summary:** Verify that payment status is viewed in the notification bar successfully.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:**  Must be logged in  
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 | Follow test case PAY-0001     | Verify that tenant has paid succesfully   | 
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - Notification on phone number or email appears 
+

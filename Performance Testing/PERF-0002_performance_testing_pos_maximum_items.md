@@ -1,4 +1,4 @@
-## **PERF-0002:** Performance testing - POS Maximum Items  
+## **PERF-0002:** Performance testing -  Maximum Tenants  
 
 > **Summary:** Verify that the app can transaction maximum items at checkouts.  <br>
 
